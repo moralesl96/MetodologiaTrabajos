@@ -1,0 +1,6 @@
+### Format del commit ###
+Con el siguiente formato: 
+Nombre del autor: Ramiro Castillo Ahumada
+Descripción del la mejora realizada: Instructivo de como informar al sistema
+Nombre de la o las clase(s) que se han estado modificando<solo al hacer merge con master>
+Requerimiento que se esta resolviendo <solo la hacer merge con master>
